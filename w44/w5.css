@@ -1,0 +1,25 @@
+#w5{
+    background-color: red;
+}
+.list{
+    border: 1px solid black;
+}
+[href="#"]{
+    background-color: green;
+}
+ul>li>a{
+    font-size: 16px;
+}
+[href$=".org/"]{
+    background-color: blueviolet;
+}
+.w1,
+.w2{
+    background-color: brown;
+}
+input{
+    background-color: darkgoldenrod;
+}
+h1 + p{
+    background-color: coral;
+}
